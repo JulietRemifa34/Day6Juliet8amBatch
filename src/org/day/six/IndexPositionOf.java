@@ -5,8 +5,10 @@ public class IndexPositionOf {
 	
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		String s1= "GreensTechnology";
+		int indexOf = s1.indexOf("o");
+		System.out.println(indexOf);
+		
 	}
 
 }

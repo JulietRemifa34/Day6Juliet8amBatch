@@ -5,9 +5,9 @@ public class IndexPositionOf {
 	
 
 	public static void main(String[] args) {
-		String s1= "GreensTechnology";
-		int indexOf = s1.indexOf("o");
-		System.out.println(indexOf);
+		String s1= "Juliet";
+		String s2="Remifa";
+		System.out.println(s1.concat(s2));
 		
 	}
 
